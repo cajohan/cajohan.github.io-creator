@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "zh-Hans"
-title = "My New Hugo Site"
+title = "我的hugo页面"
 theme = "ananke"
